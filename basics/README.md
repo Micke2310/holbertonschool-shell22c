@@ -1,0 +1,2 @@
+#!/bin/bash
+mostrar texto en pantalla
