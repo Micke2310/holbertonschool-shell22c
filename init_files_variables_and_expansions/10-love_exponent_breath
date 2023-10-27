@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((bc <<< "$BRERATH ^ $LOVE" ))
+echo $(($BRERATH**$LOVE))
